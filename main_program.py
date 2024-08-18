@@ -6,3 +6,4 @@ print("successfully completed the login")
 output=multiply.multiplication(5,6)#multiply.py will run here
 print(output)
 print("Multiplication  completed")
+print("other functionalities")
